@@ -1,3 +1,5 @@
 .env
-out/
 .state/
+drafts/
+node_modules/
+out/
