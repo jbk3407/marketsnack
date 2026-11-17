@@ -1,0 +1,23 @@
+{"label":"아침 시황","date":"2026.11.17 화","headline":"AI 쇼크에 코스피 5000선 시험대",
+"items":[
+{"name":"코스피","pct":"▼3.59%","value":"5,100.50"},
+{"name":"코스닥","pct":"▼4.86%","value":"665.65"},
+{"name":"다우","pct":"▼1.41%","value":"51,608.17"},
+{"name":"나스닥","pct":"▼2.49%","value":"24,509.76"},
+{"name":"S&P500","pct":"▼1.92%","value":"7,416.59"},
+{"name":"금","pct":"▼0.72%","value":"$3,855.50"},
+{"name":"WTI유","pct":"▼3.66%","value":"$85.32"},
+{"name":"브렌트유","pct":"▼3.55%","value":"$92.44"}],
+"kr":{"key":"코스피 5000선 지지 시험","story":"코스피는 간밤 미국 증시 급락 여파로 1%대 약세 출발해 5000선을 시험했다. 전날 외국인이 1조 3천억원 넘게 순매도했다.",
+"points":["미 증시 동반 급락 여파","외국인 1.3조원 순매도","SK하이닉스 8% 급락"],
+"news":[
+{"t":"코스피 1.81% 하락 출발","d":"미 증시 하락에 5000선 턱걸이, 투자심리 위축","s":"down","u":"https://www.ebn.co.kr/news/articleView.html?idxno=1731918"},
+{"t":"엔비디아 실적 D-day","d":"나스닥 2.49% 급락, 반도체주 긴장 확산","s":"down","u":"https://www.sisajournal-e.com/news/articleView.html?idxno=425087"},
+{"t":"코스닥 656.82 출발","d":"전날 4.86% 급락 뒤 1%대 약세로 출발","s":"down","u":"https://view.asiae.co.kr/article/2026111709015067485"}]},
+"us":{"key":"엔비디아 리더십 우려 확산","story":"뉴욕증시는 엔비디아 리더십 불안과 대중 반도체 규제로 나스닥이 2.5% 급락했다. 엔비디아 실적 발표와 앤스로픽 상장을 앞두고 경계감이 커졌다.",
+"points":["엔비디아 4% 하락","반도체 규제 강화 부담","VIX 20% 가까이 급등"],
+"news":[
+{"t":"기술주 매도세 심화","d":"엔비디아 리더십 위기에 나스닥 2.5% 하락","s":"down","u":"https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-tech-selloff-deepens-as-ai-leadership-crisis-rattles-nasdaq/"},
+{"t":"엔비디아·앤스로픽 변수","d":"엔비디아 실적과 앤스로픽 상장 앞두고 긴장","s":"down","u":"https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"},
+{"t":"국제유가 하락 지속","d":"IEA 공급 과잉 전망에 호르무즈 물량 회복","s":"flat","u":"https://hdfcsky.com/news/brent-crude-oil-price-today-november-16-2026-brent-falls-1percent-to-94-86-wti-slips-below-88-as-supply-surplus-looms"}]},
+"commodity":{"story":"금은 달러 강세와 연준 금리 인상 우려, 위험자산 매도가 겹치며 3,850달러 안팎으로 밀렸다. 유가는 호르무즈 해협 물량 회복과 공급 과잉 전망으로 3%대 내렸다."}}
