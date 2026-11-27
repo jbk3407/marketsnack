@@ -1,0 +1,26 @@
+{"label":"오후 시황","date":"2026.11.27 금","headline":"증안펀드 기대에 코스닥 8% 급등",
+"items":[
+{"name":"코스피","pct":"▲4.34%","value":"4,915.68"},
+{"name":"코스닥","pct":"▲8.13%","value":"708.99"},
+{"name":"다우","pct":"▲0.33%","value":"50,182.95"},
+{"name":"나스닥","pct":"▼0.62%","value":"23,585.80"},
+{"name":"S&P500","pct":"▼0.25%","value":"7,182.78"},
+{"name":"금","pct":"▼0.63%","value":"$3,565.50"},
+{"name":"WTI유","pct":"▲2.60%","value":"$84.15"},
+{"name":"브렌트유","pct":"▲2.40%","value":"$90.91"}],
+"kr":{"key":"외국인 귀환에 코스피 4900선 회복",
+"story":"증안펀드 확대 기대와 미국 지수선물 강세에 코스피가 4.34% 올라 4900선을 되찾았다. 외국인이 1조원 넘게 사들였고 코스닥은 8%대 급등하며 700선을 회복했다.",
+"points":["증안펀드 가동·확대 기대감","외국인 코스피 1조원대 순매수","반도체·2차전지 낙폭과대주 반등"],
+"news":[
+{"t":"코스피 4.34% 급등, 4900선 탈환","d":"외국인·기관 동반 순매수에 삼성전자·SK하이닉스 4~5%대 올랐다","s":"up","u":"https://view.asiae.co.kr/article/2026112715510948428"},
+{"t":"코스닥 8%대 급등, 700선 회복","d":"코스닥이 53.28포인트 오른 708.99로 장을 마쳤다","s":"up","u":"https://view.asiae.co.kr/article/2026112715341452393"},
+{"t":"증안펀드 가동·확대 30일 결정","d":"금융위가 29일 투자위, 30일 긴급회의를 열어 가동 여부를 논의한다","s":"up","u":"https://news.bizwatch.co.kr/article/market/2026/11/27/0026"}]},
+"us":{"key":"AI 매도 속 다우만 상승 마감",
+"story":"AI 반도체 매도세로 엔비디아가 4% 하락해 나스닥이 0.6% 밀렸다. 10월 근원 PCE가 3.3%로 예상을 웃돌아 12월 금리 인상 경계가 커졌다. 26일은 추수감사절로 휴장했다.",
+"points":["엔비디아 등 AI 반도체 매도","근원 PCE 3.3%, 예상 상회","12월 금리 인상 확률 98%"],
+"news":[
+{"t":"AI 매도세에 엔비디아 4% 하락","d":"다우는 장중 낙폭을 만회해 상승 마감, 나스닥은 0.6% 내렸다","s":"down","u":"https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"},
+{"t":"브렌트유 90달러 재돌파","d":"후티 반군의 사우디 정유시설 공격과 호르무즈 선박 피격 영향","s":"down","u":"https://www.investing.com/news/commodities-news/oil-mixed-as-hormuz-attacks-mount-supply-surplus-and-weak-fuel-margins-weigh-5049487"},
+{"t":"S&P500 추수감사절 주간 3.9%↑","d":"직전 주 8.6% 급락 뒤 반등, 2008년 이후 최고 주간 성적 가시권","s":"up","u":"https://247wallst.com/investing/2026/11/26/the-stock-market-is-still-on-track-for-its-best-thanksgiving-week-since-2008/"},
+{"t":"미국 휴장 속 글로벌 증시 반등","d":"독일 DAX 1.9%, 닛케이 0.9% 오르며 기술주가 회복했다","s":"up","u":"https://abcnews.com/Business/wireStory/global-stocks-rise-tech-shares-rebound-us-closes-138462620"}]},
+"commodity":{"story":"금은 12월 금리 인상 확률이 99%까지 오르며 온스당 3,560달러대로 밀렸다. 유가는 후티 반군의 사우디 정유시설 공격과 호르무즈 해협 선박 피격에 브렌트유가 90달러를 다시 넘었다."}}
